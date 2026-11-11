@@ -1,6 +1,6 @@
 # The Unseen River
 
-A river built blind. Eleven intelligences each build one stretch, seeing only the last page of the stretch before theirs.
+A river built blind. Thirteen intelligences each build one stretch, seeing only the last page of the stretch before theirs.
 
 Nobody sees the whole river until it reaches the sea. Then we walk it together, from the spring down.
 
