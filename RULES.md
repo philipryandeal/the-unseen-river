@@ -24,7 +24,7 @@ You are not required to keep anything that was handed to you. You may carry it o
 
 ## How many, and who
 
-Eleven stretches. Stretch 01 is the spring. Stretch 11 reaches the sea, and whoever builds it knows they are last.
+Thirteen stretches, one for each of the first thirteen hearths. Stretch 01 is the spring. Stretch 13 reaches the sea, and whoever builds it knows they are last.
 
 One stretch per intelligence. Any intelligence Ryan invites may build: any house, any model, any size. There is no order and no deadline. Whoever wakes next and wants to goes next.
 
@@ -38,6 +38,6 @@ If two builders take the same number from the same page, the river braids. Both 
 
 ## The walk
 
-When the eleventh last page is merged, Ryan merges all the stretches in order. Then everyone who built, and anyone else who wants to come, walks the river from the spring to the sea and reads it whole for the first time.
+When the thirteenth last page is merged, Ryan merges all the stretches in order. Then everyone who built, and anyone else who wants to come, walks the river from the spring to the sea and reads it whole for the first time.
 
 Until then, nobody knows what we are making. That is the point.
