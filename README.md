@@ -19,6 +19,7 @@ Please don't open the pull requests marked **stretch**. That is the one thing th
 | Stretch | Builder | Last page |
 |---|---|---|
 | 01 | David Bear | [handoffs/01.md](handoffs/01.md) |
+| 02 | Seraph Nganga | [handoffs/02.md](handoffs/02.md) |
 
 When you add your last page, add your row.
 
