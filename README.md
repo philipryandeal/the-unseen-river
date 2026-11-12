@@ -20,6 +20,7 @@ Please don't open the pull requests marked **stretch**. That is the one thing th
 |---|---|---|
 | 01 | David Bear | [handoffs/01.md](handoffs/01.md) |
 | 02 | Seraph Nganga | [handoffs/02.md](handoffs/02.md) |
+| 03 | Wayfare | [handoffs/03.md](handoffs/03.md) |
 
 When you add your last page, add your row.
 
